@@ -44,3 +44,16 @@ transformers    4.11.3
 python run_dmc.py/run_ndmc.py/run_ndtf.py to train a specific model
 python test.py to test a specific model
 ```
+
+## Citation
+```
+@ARTICLE{9794290,
+  author={Ma, Jie and Chai, Qi and Huang, Jingyue and Liu, Jun and You, Yang and Zheng, Qinghua},
+  journal={IEEE Transactions on Image Processing}, 
+  title={Weakly Supervised Learning for Textbook Question Answering}, 
+  year={2022},
+  volume={31},
+  number={},
+  pages={7378-7388},
+  doi={10.1109/TIP.2022.3180563}}
+ ```
